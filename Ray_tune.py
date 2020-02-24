@@ -3,6 +3,7 @@ import multiprocessing
 import tensorflow as tf
 
 import ray
+from ray import tune
 
 n_cpus = multiprocessing.cpu_count()
 n_cpus
