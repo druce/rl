@@ -1,13 +1,13 @@
 Notebooks and code for Alpha Architect post on reinforcement learning.
 
-- [Tic-Tac-Toe.ipynb](Tic-Tac-Toe.ipynb) - table-based reinforcement learning to play Tic-Tac-Toe, and analogous if pointless deep learning algo
-- [Cart-Pole.ipynb](Cart-Pole.ipynb) - building deep reinforcement learning algos from scratch with Keras for OpenAI environments like Cartpole and LunarLander. 
+- [Tic-Tac-Toe.ipynb](Tic-Tac-Toe.ipynb) - Table-based reinforcement learning to play Tic-Tac-Toe, and analogous if pointless deep learning algo
+- [Cart-Pole.ipynb](Cart-Pole.ipynb) - Building deep reinforcement learning algos from scratch with Keras for OpenAI environments like Cartpole and LunarLander. 
   - DQN
   - Policy Gradient (REINFORCE)
   - REINFORCE with baseline
   - [Run_CartPole.ipynb](Run_CartPole.ipynb), [Run_LunarLander.ipynb](Run_LunarLander.ipynb) - only run saved good models, don't train
-- [Ray_tune.ipynb](Ray_tune.ipynb) - similar but with state of the art RL from UC Berkeley Ray project
-- [Trading_with_RL.ipynb](Trading_with_RL.ipynb) - algos to trade fake market data, inspired by Gordon Ritter paper Machine Learning for Trading
+- [Ray_tune.ipynb](Ray_tune.ipynb) - Similar but with state of the art RL from UC Berkeley Ray project
+- [Trading_with_RL.ipynb](Trading_with_RL.ipynb) - Algos to trade fake market data, inspired by Gordon Ritter paper Machine Learning for Trading
 
 Typical installation procedure:
 
@@ -37,7 +37,7 @@ Typical installation procedure:
 
 - TensorFlow Docker install may also be a good way to start but has not been tested.
 
-- run notebooks using 
+- Run notebooks using 
 
   ```python
   jupyter notebook
