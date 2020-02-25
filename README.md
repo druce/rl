@@ -5,9 +5,9 @@ Notebooks and code for Alpha Architect post on reinforcement learning.
   - DQN
   - Policy Gradient (REINFORCE)
   - REINFORCE with baseline
-  - [Run CartPole.ipynb](Run CartPole.ipynb), [Run LunarLander.ipynb](Run LunarLander.ipynb) - only run saved good models, don't train
+  - [Run_CartPole.ipynb](Run_CartPole.ipynb), [Run_LunarLander.ipynb](Run_LunarLander.ipynb) - only run saved good models, don't train
 - [Ray_tune.ipynb](Ray_tune.ipynb) - similar but with state of the art RL from UC Berkeley Ray project
-- [Trading with RL.ipynb](Trading with RL.ipynb) - algos to trade fake market data, inspired by Gordon Ritter paper Machine Learning for Trading
+- [Trading_with_RL.ipynb](Trading_with_RL.ipynb) - algos to trade fake market data, inspired by Gordon Ritter paper Machine Learning for Trading
 
 Typical installation procedure:
 
