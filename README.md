@@ -1,4 +1,4 @@
-Notebooks and code for Alpha Architect post on reinforcement learning.
+Notebooks and code for [Alpha Architect](https://alphaarchitect.com/blog/) post on reinforcement learning.
 
 - [Tic-Tac-Toe.ipynb](Tic-Tac-Toe.ipynb) - Table-based reinforcement learning to play Tic-Tac-Toe, and analogous if pointless deep learning algo
 - [Cart-Pole.ipynb](Cart-Pole.ipynb) - Building deep reinforcement learning algos from scratch with Keras for OpenAI environments like Cartpole and LunarLander. 
@@ -33,7 +33,7 @@ Typical installation procedure:
   pip install --upgrade tensorflow
   ```
 
-- Install additional requirements as necessary - requirements.txt has python modules installed at time of testing, but most of these aren't necessary and more recent versions may be preferable.
+- Install additional requirements as necessary - [requirements.txt](requirements.txt) has python modules installed at time of testing, but most of these aren't necessary and more recent versions may be preferable.
 
 - TensorFlow Docker install may also be a good way to start but has not been tested.
 
