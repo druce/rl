@@ -1,4 +1,4 @@
-Notebooks and code for [Alpha Architect](https://alphaarchitect.com/blog/) post on reinforcement learning.
+Notebooks and code for [Alpha Architect](https://alphaarchitect.com/2020/02/26/reinforcement-learning-for-trading/) post on reinforcement learning.
 
 - [Tic-Tac-Toe.ipynb](Tic-Tac-Toe.ipynb) - Table-based reinforcement learning to play Tic-Tac-Toe, and analogous if pointless deep learning algo
 - [Cart-Pole.ipynb](Cart-Pole.ipynb) - Building deep reinforcement learning algos from scratch with Keras for OpenAI environments like Cartpole and LunarLander. 
