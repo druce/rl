@@ -6,7 +6,7 @@ async-timeout==3.0.1
 atari-py==0.2.6
 attrs==19.3.0
 backcall==0.1.0
-bleach==3.1.1
+bleach==3.1.2
 bokeh==1.4.0
 Box2D==2.3.2
 Box2D-kengz==2.3.3
