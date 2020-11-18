@@ -22,7 +22,7 @@ comet-ml==3.1.0
 conda==4.8.2
 conda-package-handling==1.6.0
 configobj==5.0.6
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 decorator==4.4.1
 defusedxml==0.6.0
