@@ -7,7 +7,7 @@ Notebooks and code for [Alpha Architect](https://alphaarchitect.com/2020/02/26/r
   - REINFORCE with baseline
   - [Run_CartPole.ipynb](Run_CartPole.ipynb), [Run_LunarLander.ipynb](Run_LunarLander.ipynb) - only run saved good models, don't train
 - [Ray_tune.ipynb](Ray_tune.ipynb) - Similar but with state of the art RL from UC Berkeley Ray project
-- [Trading_with_RL.ipynb](Trading_with_RL.ipynb) - Algos to trade fake market data, inspired by Gordon Ritter paper Machine Learning for Trading
+- [Trading_with_RL.ipynb](Trading_with_RL.ipynb) - Algos to trade fake market data, inspired by Gordon Ritter paper Machine Learning for Trading. This *should* run in [Google Colab](https://colab.research.google.com/github/druce/rl/blob/master/Trading_with_RL.ipynb).
 
 Typical installation procedure:
 
@@ -15,13 +15,13 @@ Typical installation procedure:
 
 - Make an environment like 
 
-  ```python
+  ```bash
   conda create --name tf tensorflow
   ```
 
   or if you have Nvidia GPU
 
-  ```python
+  ```bash
   conda create --name tf_gpu tensorflow-gpu 
   ```
 
@@ -29,17 +29,20 @@ Typical installation procedure:
 
 - Upgrade [TensorFlow](https://www.tensorflow.org/install/pip?lang=python3) to latest version with 
 
-  ```python
+  ```bash
   pip install --upgrade tensorflow
   ```
 
-- Install additional requirements as necessary - [requirements.txt](requirements.txt) has python modules installed at time of testing, but most of these aren't necessary and more recent versions may be preferable.
+- Install additional requirements as necessary - [requirements.txt](requirements.txt) has python modules installed at time of testing.
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 - TensorFlow Docker install may also be a good way to start but has not been tested.
 
 - Run notebooks using 
 
-  ```python
+  ```bash
   jupyter notebook
   ```
 
