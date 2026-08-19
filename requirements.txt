@@ -1,4 +1,4 @@
-bokeh==2.2.3
+bokeh==3.8.2
 box2d-py==2.3.8
 comet-ml==3.2.5
 dm-tree==0.1.5
