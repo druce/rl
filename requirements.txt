@@ -11,7 +11,7 @@ jupyter==1.0.0
 lz4==3.1.1
 matplotlib==3.3.3
 numpy==1.22.0
-opencv-python==4.4.0.46
+opencv-python==4.8.1.78
 pandas==1.1.4
 plotly==4.12.0
 ray[tune]==1.0.1.post1
